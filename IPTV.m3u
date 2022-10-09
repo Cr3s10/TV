@@ -1,4 +1,23 @@
 #EXTM3U
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Sport",TNT SPORTS
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175331?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170618?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",13 C
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28668?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",24 Horas (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",CDF BASICO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28673?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",CDF PREMIUM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28675?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",CDO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28677?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",CHILEVISION
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28679?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",CNN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42040?checkedby:iptvcat.com
+
 
