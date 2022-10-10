@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175331?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS 2
+http://45.162.135.1:1080/play/a09k
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS 2
 http://45.162.135.1:1080/play/a037
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170618?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",13 C
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS 3
+http://45.162.135.1:1080/play/a049
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",13 C
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28668?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",24 Horas (720p) [Not 24/7]
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",24 Horas (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",CDF BASICO
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",CDF BASICO
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28673?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",CDF PREMIUM
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",CDF PREMIUM
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28675?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",CDO
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",CDO
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28677?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",CHILEVISION
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",CHILEVISION
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28679?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",CNN
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",CNN
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42040?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Niños",Cartoon Network (Spanish)
+#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Niños",Cartoon Network (Spanish)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="" group-title="Niños",Cartoonito (Spanish)
+#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="" group-title="Niños",Cartoonito (Spanish)
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Deportes",DIRECTV SPORTS
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",DIRECTV SPORTS
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28581?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",ADN Radio (1080p)
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",ADN Radio (1080p)
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Niños",ETC TV
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Niños",ETC TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28683?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",LA RED
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",LA RED
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28686?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;DZ;BH;BR;BG;CL;CO;DK;FR;MX;MN;NO;AE" tvg-logo="https://latinzonetv.com/wp-content/uploads/2021/06/Image-1.jpeg" group-title="Chile",Latin Zone TV (720p)
+#EXTINF:-1 tvg-country="AF;DZ;BH;BR;BG;CL;CO;DK;FR;MX;MN;NO;AE" tvg-logo="https://latinzonetv.com/wp-content/uploads/2021/06/Image-1.jpeg" group-title="Chile",Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",MEGA
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",MEGA
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28687?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",TELETRAK
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TELETRAK
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28691?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",TV CHILE
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TV CHILE
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28692?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",TV+
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TV+
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/78221?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL" tvg-logo="" group-title="Chile",TVN
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TVN
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28693?checkedby:iptvcat.com
 
 
