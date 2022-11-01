@@ -40,7 +40,7 @@ http://45.162.135.1:1080/play/a032
 #EXTINF:-1 tvg-country="AF;DZ;BH;BR;BG;CL;CO;DK;FR;MX;MN;NO;AE" tvg-logo="https://latinzonetv.com/wp-content/uploads/2021/06/Image-1.jpeg" group-title="Chile",Latin Zone TV (720p)
 http://45.162.135.1:1080/play/a04p
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",MEGA
-http://201.222.44.28:1/play/a08n
+http://45.232.177.17:8000/play/a00u
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TELETRAK
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28691?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TV CHILE
