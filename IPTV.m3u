@@ -49,7 +49,7 @@ http://45.162.135.1:1080/play/a04t
 http://45.162.135.1:1080/play/a06j
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Niños",ETC TV
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28683?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Peliculas",Terrifier 2
+#EXTINF:-1 tvg-ID="" tvg-name="Terrifier 2"  tvg-logo=  group-title="VOD | ESTRENOS 2022", Terrifier 2
 https://sv19.pelisfile.net/videos/hls/idm72bzZWXTWjqFNNa2KrQ/1667333735/164776/6b276db56b9aaffb458b9c6de045b796/EP.0.0.v0.1666671972.m3u8
  
 
