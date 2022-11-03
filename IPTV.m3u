@@ -7,56 +7,48 @@ http://209.45.97.109:8000/play/a0ca
 http://45.162.135.1:1080/play/a037
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",TNT SPORTS 3
 http://45.162.135.1:1080/play/a049
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",13 C
-http://45.225.95.170:8000/play/a0f8/index.m3u8 
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",13 
-http://45.232.177.17:8000/play/a004
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",24 Horas (720p) [Not 24/7]
-http://45.162.135.1:1080/play/a03e
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",CDO
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28677?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",CHILEVISION
-http://45.162.135.1:1080/play/a035
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",CNN CHILE
-http://45.162.135.1:1080/play/a04q
-#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Niños",Cartoon Network 1
-http://45.162.135.1:1080/play/a06h
-#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Niños",Cartoon Network 2
-http://45.162.135.1:1080/play/a04t
-#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="" group-title="Niños",Cartoonito (Spanish)
-http://45.162.135.1:1080/play/a06j
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",DIRECTV SPORTS
 http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfUuLWJcHStdfNchzIWjQRNg
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",DIRECTV SPORTS 2
 http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfVYzuLS9iD3xXBt3unBRH94
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Deportes",DIRECTV SPORTS +
 http://gratuita.mrzutv.net:8080/play/_nFsP1LucWDvKgLcHS5HfdwxC2Rll5tL5Vdh2gJHEiw
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",ADN Radio (1080p)
-https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Niños",ETC TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28683?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",13 C
+http://45.225.95.170:8000/play/a0f8/index.m3u8 
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",13 
+http://45.232.177.17:8000/play/a004
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",CHILEVISION
+http://45.162.135.1:1080/play/a035
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",MEGA
+http://45.232.177.17:8000/play/a00u
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TVN
+http://45.162.135.1:1080/play/a033
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",24 Horas (720p) [Not 24/7]
+http://45.162.135.1:1080/play/a03e
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",CNN CHILE
+http://45.162.135.1:1080/play/a04q
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",LA RED
 http://45.162.135.1:1080/play/a032
 #EXTINF:-1 tvg-country="AF;DZ;BH;BR;BG;CL;CO;DK;FR;MX;MN;NO;AE" tvg-logo="https://latinzonetv.com/wp-content/uploads/2021/06/Image-1.jpeg" group-title="Chile",Latin Zone TV (720p)
 http://45.162.135.1:1080/play/a04p
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",MEGA
-http://45.232.177.17:8000/play/a00u
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TELETRAK
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28691?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TV CHILE
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28692?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TV+
 http://201.222.44.28:1/play/a08q
-#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",TVN
-http://45.162.135.1:1080/play/a033
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Directv Sports (ARG)"  group-title="TV | DEPORTES",DEP | Directv Sports (ARG)
-http://198.245.53.172:8970/live/5DTE7KXNGPDT/8REANSY6BHBD/175713.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Directv Sports 2 (ARG)"  group-title="TV | DEPORTES",DEP | Directv Sports 2 (ARG)
-http://198.245.53.172:8970/live/5DTE7KXNGPDT/8REANSY6BHBD/175714.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Directv Sports + (ARG)"  group-title="TV | DEPORTES",DEP | Directv Sports + (ARG)
-http://198.245.53.172:8970/live/5DTE7KXNGPDT/8REANSY6BHBD/175715.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Directv Sports (CL)"  group-title="TV | DEPORTES",DEP | Directv Sports (CL)
-http://198.245.53.172:8970/live/5DTE7KXNGPDT/8REANSY6BHBD/175716.ts 
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Chile",ADN Radio (1080p)
+https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Niños",Cartoon Network 1
+http://45.162.135.1:1080/play/a06h
+#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Niños",Cartoon Network 2
+http://45.162.135.1:1080/play/a04t
+#EXTINF:-1 tvg-country="AF;DZ;AM;BH;BB;BG;KH;CL;DK;GR;GB;VN" tvg-logo="" group-title="Niños",Cartoonito (Spanish)
+http://45.162.135.1:1080/play/a06j
+#EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Niños",ETC TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/28683?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="CL" tvg-logo="" group-title="Peliculas",Terrifier 2
 https://sv19.pelisfile.net/videos/hls/idm72bzZWXTWjqFNNa2KrQ/1667333735/164776/6b276db56b9aaffb458b9c6de045b796/EP.0.0.v0.1666671972.m3u8
  
